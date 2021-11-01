@@ -1,0 +1,16 @@
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\bin\Debug\net5.0\Lab3.exe
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\bin\Debug\net5.0\Lab3.deps.json
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\bin\Debug\net5.0\Lab3.runtimeconfig.json
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\bin\Debug\net5.0\Lab3.runtimeconfig.dev.json
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\bin\Debug\net5.0\Lab3.dll
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\bin\Debug\net5.0\ref\Lab3.dll
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\bin\Debug\net5.0\Lab3.pdb
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\obj\Debug\net5.0\Lab3.csproj.AssemblyReference.cache
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\obj\Debug\net5.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\obj\Debug\net5.0\Lab3.AssemblyInfoInputs.cache
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\obj\Debug\net5.0\Lab3.AssemblyInfo.cs
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\obj\Debug\net5.0\Lab3.csproj.CoreCompileInputs.cache
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\obj\Debug\net5.0\Lab3.dll
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\obj\Debug\net5.0\ref\Lab3.dll
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\obj\Debug\net5.0\Lab3.pdb
+D:\Laboratories\3 semester\Патерни\Lab3\Lab3\obj\Debug\net5.0\Lab3.genruntimeconfig.cache
