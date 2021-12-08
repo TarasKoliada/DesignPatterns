@@ -1,0 +1,16 @@
+D:\Laboratories\3 semester\Патерни\Module1\Module1\bin\Debug\net5.0\Module1.exe
+D:\Laboratories\3 semester\Патерни\Module1\Module1\bin\Debug\net5.0\Module1.deps.json
+D:\Laboratories\3 semester\Патерни\Module1\Module1\bin\Debug\net5.0\Module1.runtimeconfig.json
+D:\Laboratories\3 semester\Патерни\Module1\Module1\bin\Debug\net5.0\Module1.runtimeconfig.dev.json
+D:\Laboratories\3 semester\Патерни\Module1\Module1\bin\Debug\net5.0\Module1.dll
+D:\Laboratories\3 semester\Патерни\Module1\Module1\bin\Debug\net5.0\ref\Module1.dll
+D:\Laboratories\3 semester\Патерни\Module1\Module1\bin\Debug\net5.0\Module1.pdb
+D:\Laboratories\3 semester\Патерни\Module1\Module1\obj\Debug\net5.0\Module1.csproj.AssemblyReference.cache
+D:\Laboratories\3 semester\Патерни\Module1\Module1\obj\Debug\net5.0\Module1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratories\3 semester\Патерни\Module1\Module1\obj\Debug\net5.0\Module1.AssemblyInfoInputs.cache
+D:\Laboratories\3 semester\Патерни\Module1\Module1\obj\Debug\net5.0\Module1.AssemblyInfo.cs
+D:\Laboratories\3 semester\Патерни\Module1\Module1\obj\Debug\net5.0\Module1.csproj.CoreCompileInputs.cache
+D:\Laboratories\3 semester\Патерни\Module1\Module1\obj\Debug\net5.0\Module1.dll
+D:\Laboratories\3 semester\Патерни\Module1\Module1\obj\Debug\net5.0\ref\Module1.dll
+D:\Laboratories\3 semester\Патерни\Module1\Module1\obj\Debug\net5.0\Module1.pdb
+D:\Laboratories\3 semester\Патерни\Module1\Module1\obj\Debug\net5.0\Module1.genruntimeconfig.cache

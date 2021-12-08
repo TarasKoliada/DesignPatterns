@@ -1,0 +1,14 @@
+D:\Laboratories\3 semester\Патерни\Lab6\bin\Debug\Lab6.exe.config
+D:\Laboratories\3 semester\Патерни\Lab6\bin\Debug\Lab6.exe
+D:\Laboratories\3 semester\Патерни\Lab6\bin\Debug\Lab6.pdb
+D:\Laboratories\3 semester\Патерни\Lab6\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Laboratories\3 semester\Патерни\Lab6\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Laboratories\3 semester\Патерни\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+D:\Laboratories\3 semester\Патерни\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\Laboratories\3 semester\Патерни\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+D:\Laboratories\3 semester\Патерни\Lab6\obj\Debug\Lab6.exe
+D:\Laboratories\3 semester\Патерни\Lab6\obj\Debug\Lab6.pdb
+D:\Laboratories\3 semester\Патерни\Lab6\bin\Debug\BouncyCastle.Crypto.dll
+D:\Laboratories\3 semester\Патерни\Lab6\bin\Debug\itextsharp.dll
+D:\Laboratories\3 semester\Патерни\Lab6\bin\Debug\itextsharp.xmlworker.dll
+D:\Laboratories\3 semester\Патерни\Lab6\bin\Debug\itextsharp.xml
